@@ -63,3 +63,4 @@ The Contact document schema used in MongoDB:
 - **Frontend**: Built with React and Material UI, featuring a form for adding/editing contacts and a table to display contact information.
 - **Backend**: Built with Node.js and Express, it includes API routes to perform CRUD operations.
 - **Database**: MongoDB stores contact information with unique constraints on emails to prevent duplicates.
+
