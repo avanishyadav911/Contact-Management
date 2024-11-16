@@ -30,13 +30,14 @@ Ensure you have the following installed on your machine:
 cd backend
 npm install
 ### Set Up Environment Variables: In the backend folder, create a .env file and add the following:
-PORT=5000
-MONGO_URI=<your_mongo_db_uri>
+- PORT=5000
+- MONGO_URI=<your_mongo_db_uri>
+
 ### Start the Backend Server:
-npm start
+- npm start
 ### Install Frontend Dependencies:
-cd ../frontend
-npm install
+- cd ../frontend
+- npm install
 ### Start the Frontend Development Server:
 npm run dev
 
